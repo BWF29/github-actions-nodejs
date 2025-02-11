@@ -21,5 +21,5 @@ jobs:
               run: npm install
 
             - name: Run Node.js Script
-              run: node syste,-info.js
+              run: node system-info.js
 
